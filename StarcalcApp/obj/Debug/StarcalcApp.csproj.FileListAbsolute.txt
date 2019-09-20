@@ -1,0 +1,10 @@
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\bin\Debug\StarcalcApp.exe.config
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\bin\Debug\StarcalcApp.exe
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\bin\Debug\StarcalcApp.pdb
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\obj\Debug\StarcalcApp.csprojAssemblyReference.cache
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\obj\Debug\StarcalcApp.Form1.resources
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\obj\Debug\StarcalcApp.Properties.Resources.resources
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\obj\Debug\StarcalcApp.csproj.GenerateResource.cache
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\obj\Debug\StarcalcApp.csproj.CoreCompileInputs.cache
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\obj\Debug\StarcalcApp.exe
+C:\Users\blick\RiderProjects\StarcalcApp\StarcalcApp\obj\Debug\StarcalcApp.pdb
